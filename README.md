@@ -2,6 +2,7 @@
 
 ## 🔭 Some basic facts about me
 
+- Co-founder of Lots of Pixels Studios UG
 - I'm currently a student at the University of Ulm, studying software engineering.
 - My favourite languages are kotlin and typescript at the moment
 - I'm looking for some wotk, so reach out!
