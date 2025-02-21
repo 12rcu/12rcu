@@ -5,7 +5,6 @@
 - Co-founder of Lots of Pixels Studios UG
 - I'm currently a student at the University of Ulm, studying software engineering.
 - My favourite languages are kotlin and typescript at the moment
-- I'm looking for some wotk, so reach out!
 
 ## 📫 How to reach me:
 
@@ -22,6 +21,26 @@ I've been working on this project for over 3 years now and have learned a lot, e
 - Building libraries with Gradle
 - Using and developing DSLs in Kotlin
 - The Minecraft Addon Ecosystem
+
+### 📗 [kFlaky](https://github.com/12rcu/kFlaky)
+
+This project is still under development, but can be used if you don't mind some of the quirks in some projects.
+
+This project was born out of a course I took at university. The technologies used are:
+- Kotlin
+- SQLite
+
+Future plans may include a web based frontend to interact with the test environment, get stats and classifications.
+
+### 🤖 [KeepMeAlive3d](https://github.com/KeepMeAlive3D/KeepMeAlive3D)
+
+This is a university project that aims to create a web view of a physical object in the context of Industry 4.0. This project is currently a digital shadow and is intended to be used as part of a larger digital twin.
+
+The Techstack is
+- Kotlin + Ktro in the backend
+- Vite + React + Threejs in the frontend to display the CAD files
+
+## Old Projects
 
 ### ✨ Visual Components Connector and Addon
 
