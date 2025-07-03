@@ -32,6 +32,8 @@ This project was born out of a course I took at university. The technologies use
 
 Future plans may include a web based frontend to interact with the test environment, get stats and classifications.
 
+## Old Projects
+
 ### 🤖 [KeepMeAlive3d](https://github.com/KeepMeAlive3D/KeepMeAlive3D)
 
 This is a university project that aims to create a web view of a physical object in the context of Industry 4.0. This project is currently a digital shadow and is intended to be used as part of a larger digital twin.
@@ -39,8 +41,6 @@ This is a university project that aims to create a web view of a physical object
 The Techstack is
 - Kotlin + Ktro in the backend
 - Vite + React + Threejs in the frontend to display the CAD files
-
-## Old Projects
 
 ### ✨ Visual Components Connector and Addon
 
