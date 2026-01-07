@@ -20,6 +20,7 @@ This is a university project and now my mastert thesis that aims to create a web
 The Techstack is
 - Kotlin + Ktro in the backend
 - Vite + React + Threejs in the frontend to display the CAD files
+- Konva to render state machines that reflect the behaviour of Digital Twins and their participants.
 
 ### Traefik plugin middleware to copy headers
 
