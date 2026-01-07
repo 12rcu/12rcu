@@ -13,6 +13,20 @@
 
 ## ⚡ My Current Projects
 
+### 🤖 [KeepMeAlive3d](https://github.com/KeepMeAlive3D/KeepMeAlive3D)
+
+This is a university project and now my mastert thesis that aims to create a web view of a physical object in the context of Industry 4.0. This project is currently a digital shadow and is intended to be used as part of a larger digital twin.
+
+The Techstack is
+- Kotlin + Ktro in the backend
+- Vite + React + Threejs in the frontend to display the CAD files
+
+### Traefik plugin middleware to copy headers
+
+This is a project that copies header values to other headers. It aims to resolve an issue I have with OAuth2 Proxy, whereby the ID token is provided in the Authorization header instead of the token from the X-Auth-Request-Access-Token header.
+
+## Old Projects
+
 ### 🌱 [Monstera](https://github.com/LotsOfPixelsStudios/Monstera)
 
 A Minecraft Bedrock Edition framework written in Kotlin that helps streamline addon development.
@@ -31,16 +45,6 @@ This project was born out of a course I took at university. The technologies use
 - SQLite
 
 Future plans may include a web based frontend to interact with the test environment, get stats and classifications.
-
-## Old Projects
-
-### 🤖 [KeepMeAlive3d](https://github.com/KeepMeAlive3D/KeepMeAlive3D)
-
-This is a university project that aims to create a web view of a physical object in the context of Industry 4.0. This project is currently a digital shadow and is intended to be used as part of a larger digital twin.
-
-The Techstack is
-- Kotlin + Ktro in the backend
-- Vite + React + Threejs in the frontend to display the CAD files
 
 ### ✨ Visual Components Connector and Addon
 
