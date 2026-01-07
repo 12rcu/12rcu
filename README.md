@@ -2,9 +2,10 @@
 
 ## 🔭 Some basic facts about me
 
-- Co-founder of Lots of Pixels Studios UG
+- Working student at Zeiss MES Solutions Gmbh
 - I'm currently a student at the University of Ulm, studying software engineering.
 - My favourite languages are kotlin and typescript at the moment
+- I co-founded Lots of Pixels Studios UG with 2 friends to develop [minecraft marketplace](https://www.minecraft.net/en-us/marketplace) addons
 
 ## 📫 How to reach me:
 
