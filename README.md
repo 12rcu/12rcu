@@ -23,7 +23,7 @@ The Techstack is
 - Vite + React + Threejs in the frontend to display the CAD files
 - Konva to render state machines that reflect the behaviour of Digital Twins and their participants.
 
-### Traefik plugin middleware to copy headers
+### [Traefik plugin middleware to copy headers](https://github.com/12rcu/copyheaders)
 
 This is a project that copies header values to other headers. It aims to resolve an issue I have with OAuth2 Proxy, whereby the ID token is provided in the Authorization header instead of the token from the X-Auth-Request-Access-Token header.
 
